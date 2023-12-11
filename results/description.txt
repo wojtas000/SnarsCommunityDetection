@@ -1,0 +1,5 @@
+Jan Wojtas, Mikołaj Zalewski
+https://github.com/wojtas000/SnarsCommunityDetection
+D1-K=2, 0.05866837501525879
+D2-K=7, 0.4091484546661377
+D3-K=12, 6.957764387130737
